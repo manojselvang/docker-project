@@ -158,3 +158,10 @@ docker run -dit -v myvolume:/data alpine
 ## 🔥 One-Line Summary
 
 > "Docker containers store runtime changes in the writable layer (UpperDir), which is ephemeral and deleted along with the container unless external storage like volumes is used."
+
+## Author
+
+Manoj Selvan G
+Gmail: manojselvang@gmail.com
+GitHub: github.com/manojselvang
+LinkedIn: https://www.linkedin.com/in/manojselvang/
